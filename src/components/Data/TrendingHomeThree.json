@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "_id": "61810a96f94ed7881da838db",
+      "title": "Copa America: Luis Suarez From Devastated US",
+      "article": "Pellentesque luctus diam phasellus litora auctor nec ultricies, metus facilisi at per tempor dictumst condimentum, malesuada eros dui curabitur sociis ut.",
+      "action":"trending",
+      "image": "trending-thumb.jpg",
+      "category": {
+        "name": "DEPORTES",
+        "create_At": "12/02/2022"
+      }
+    },
+    {
+      "_id": "61810a96ed484972a85cc109",
+      "title": "Raikkonen ‘No pude hacer nada’",
+      "article": "Pellentesque luctus diam phasellus litora auctor nec ultricies, metus facilisi at per tempor dictumst condimentum, malesuada eros dui curabitur sociis ut.",
+      "action":"play",
+      "image": "gallery-1.jpg",
+      "category": {
+        "name": "DEPORTES",
+        "create_At": "12/02/2022"
+      }
+    },
+    {
+      "_id": "61810a9659b5fc229a8c1389",
+      "title": "Hamilton gana el GP de Arabia Saudita",
+      "article": "Pellentesque luctus diam phasellus litora auctor nec ultricies, metus facilisi at per tempor dictumst condimentum, malesuada eros dui curabitur sociis ut.",
+      "action":"trending",
+      "image": "gallery-2.jpg",
+      "category": {
+        "name": "DEPORTES",
+        "create_At": "12/02/2022"
+      }
+    },
+    {
+      "_id": "61810a9688b5023a5fb07812",
+      "title": "Rusia llega a la final de la Copa Davis",
+      "article": "Pellentesque luctus diam phasellus litora auctor nec ultricies, metus facilisi at per tempor dictumst condimentum, malesuada eros dui curabitur sociis ut.",
+      "action":"play",
+      "image": "gallery-3.jpg",
+      "category": {
+        "name": "DEPORTES",
+        "create_At": "12/02/2022"
+      }
+    },
+    {
+      "_id": "61810a961523248bb75b0f33",
+      "title": "Rolland Garros: estrictas medidas de seguridad",
+      "article": "Pellentesque luctus diam phasellus litora auctor nec ultricies, metus facilisi at per tempor dictumst condimentum, malesuada eros dui curabitur sociis ut.",
+      "action":"trending",
+      "image": "gallery-4.jpg",
+      "category": {
+        "name": "DEPORTES",
+        "create_At": "12/02/2022"
+      }
+    },
+    {
+      "_id": "61810a961523248bb75bfastg0f33",
+      "title": "La Federacion de Hockey de España llegó a un acuerdo final",
+      "article": "Pellentesque luctus diam phasellus litora auctor nec ultricies, metus facilisi at per tempor dictumst condimentum, malesuada eros dui curabitur sociis ut.",
+      "action":"trending",
+      "image": "gallery-5.jpg",
+      "category": {
+        "name": "DEPORTES",
+        "create_At": "12/02/2022"
+      }
+    }
+  ],
+  "buisness":[
+    {
+      "_id": "61810a961523248bb75bfastg0f33",
+      "title": "El Mundial de Handbol Femenino comienza hoy",
+      "article": "Pellentesque luctus diam phasellus litora auctor nec ultricies, metus facilisi at per tempor dictumst condimentum, malesuada eros dui curabitur sociis ut.",
+      "action":"trending",
+      "image": "trending-image-post-1.jpg",
+      "category": {
+        "name": "DEPORTES",
+        "create_At": "12/02/2022"
+      }
+    },
+    {
+      "_id": "61810a961523248bb75bfastg0f33",
+      "title": "El Real Madrid vuelve a poner la mira en dos rusos",
+      "article": "Pellentesque luctus diam phasellus litora auctor nec ultricies, metus facilisi at per tempor dictumst condimentum, malesuada eros dui curabitur sociis ut.",
+      "action":"trending",
+      "image": "trending-image-post-2.jpg",
+      "category": {
+        "name": "DEPORTES",
+        "create_At": "12/02/2022"
+      }
+    }
+  ]
+}
